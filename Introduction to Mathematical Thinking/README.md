@@ -1,5 +1,5 @@
 
-<h2> General Course Info </h2>
+# General Course Info
 
 **Title**: Introduction to Mathematical Thinking
 
