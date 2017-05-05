@@ -1,2 +1,2 @@
 # Coursera-Courses
-random collection of MOOC
+my random collection of MOOC
